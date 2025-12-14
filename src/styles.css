@@ -83,7 +83,6 @@ html[dir='rtl'],
   --lift-amount: calc(var(--lift) * var(--gap));
   z-index: var(--z-index);
   position: absolute;
-  opacity: 0;
   transform: var(--y);
   touch-action: none;
   transition: transform 400ms, opacity 400ms, height 400ms, box-shadow 200ms;
