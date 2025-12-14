@@ -1,5 +1,5 @@
 {
-  "name": "sonner",
+  "name": "@cherrystudio/sonner",
   "version": "2.0.7",
   "description": "An opinionated toast component for React.",
   "exports": {
